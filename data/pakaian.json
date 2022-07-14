@@ -1,0 +1,82 @@
+{
+    "menu": [{
+            "kategori": "baju",
+            "nama": "Baju 1",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Baju.",
+            "harga": 45000,
+            "gambar": "baju1.jpeg"
+        },
+        {
+            "kategori": "baju",
+            "nama": "Baju 2",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Baju.",
+            "harga": 45000,
+            "gambar": "baju2.jpeg"
+        },
+        {
+            "kategori": "baju",
+            "nama": "Baju 3",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Baju.",
+            "harga": 45000,
+            "gambar": "baju3.jpeg"
+        },
+        {
+            "kategori": "baju",
+            "nama": "Baju 4",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Baju.",
+            "harga": 45000,
+            "gambar": "baju4.jpeg"
+        },
+        {
+            "kategori": "baju",
+            "nama": "Baju 5",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Baju.",
+            "harga": 45000,
+            "gambar": "baju5.jpeg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana 1",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Celana.",
+            "harga": 45000,
+            "gambar": "celana1.jpeg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana 2",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Celana.",
+            "harga": 45000,
+            "gambar": "celana2.jpeg"
+        },
+        {
+            "kategori": "celana",
+            "nama": "Celana 3",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Celana.",
+            "harga": 45000,
+            "gambar": "celana3.jpeg"
+        },
+
+        {
+            "kategori": "hoodie",
+            "nama": "Hoddie 1",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Hoodie.",
+            "harga": 100000,
+            "gambar": "hoodie1.jpeg"
+        },
+        {
+            "kategori": "hoodie",
+            "nama": "Hoddie 2",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Hoodie.",
+            "harga": 100000,
+            "gambar": "hoodie2.jpeg"
+        },
+        {
+            "kategori": "hoodie",
+            "nama": "Hoddie 3",
+            "deskripsi": "Ini Adalah Kain Yang Diolah Dengan Sedemikian Rupa Hingga Menjadi Hoodie.",
+            "harga": 100000,
+            "gambar": "hoodie3.jpeg"
+        }
+
+    ]
+}
